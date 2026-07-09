@@ -1,7 +1,7 @@
 {
-  "name": "cap-springfield-inventory",
+  "name": "cap-oklahoma-inventory",
   "version": "1.0.2",
-  "description": "Springfield Civil Air Patrol Squadron — Inventory Management System",
+  "description": "Oklahoma Civil Air Patrol Squadron — Inventory Management System",
   "private": true,
   "type": "module",
   "dependencies": {
